@@ -1,0 +1,100 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 20%;
+  border-color: #d3d3d3;
+}
+
+body{
+  background-color: #222222;
+}
+
+img{
+  width: 45%;
+}
+
+h1{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #d3d3d3;
+}
+
+h2{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #d3d3d3;
+}
+
+h3{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #d3d3d3;
+}
+
+p{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #d3d3d3;
+}
+
+li{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #d3d3d3;
+}
+
+label{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  color: #d3d3d3;
+}
+
+td{
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  color: #d3d3d3;
+
+}
+
+
+.logos{
+  border-radius: 3.5%;
+}
+
+
+.logos:active{
+  width: 70%;
+}
+
+.text:hover{
+  color: white;
+}
+
+hr:hover{
+    border-color: white;
+}
+
+hr:active{
+  border-color: white;
+  border-width: 13px;
+  width: 26%;
+}
+
+p:active{
+  font-size: 20px;
+}
+
+li:active{
+  font-size: 20px;
+}
+
+label:active{
+  font-size: 20px;
+}
+
+td:active{
+  font-size: 25px;
+}
+
+h1:active{
+  font-size: 40px;
+}
+
+h3:active{
+  font-size: 23px;
+}
